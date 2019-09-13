@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "953746490",
+    "firebase_url": "https://flash-chat-ccb8c.firebaseio.com",
+    "project_id": "flash-chat-ccb8c",
+    "storage_bucket": "flash-chat-ccb8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953746490:android:dbba29fbbba6bffe",
+        "android_client_info": {
+          "package_name": "com.Sayantak.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953746490-leu4ksfus82amhoio5tke069c301dfc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB586vmugGbV65JPeCwLTywVYF6K5MVLHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953746490-leu4ksfus82amhoio5tke069c301dfc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
